@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2100378122",
+    "project_id": "gklab7-b977b",
+    "storage_bucket": "gklab7-b977b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2100378122:android:a5eb326379dc832f48fdf3",
+        "android_client_info": {
+          "package_name": "com.ktgk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Dfi4pQNSr1-ciYJI3mGkJw3MUbpLPF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
